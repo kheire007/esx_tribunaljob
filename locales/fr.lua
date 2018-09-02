@@ -14,7 +14,6 @@ Locales['fr'] = {
   ['invoice_amount'] = 'montant de la facture',
   ['no_players_near'] = 'aucun joueur à proximité',
   ['store_vehicle'] = 'appuyez sur ~INPUT_CONTEXT~ pour ranger le véhicule',
-  ['drive_search_pass'] = 'conduisez à la recherche de ~y~passagers',
   ['deposit_stock'] = 'Déposer Stock',
   ['take_stock'] = 'Prendre Stock',
   ['boss_actions'] = 'action Patron',
